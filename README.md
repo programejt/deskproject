@@ -18,3 +18,4 @@ Poniżej znajdują się zrzuty ekranu niektórych zasobów projektu:
 ![alt text](https://github.com/programejt/deskproject/blob/main/screenshots/screenshot-7.png)
 ![alt text](https://github.com/programejt/deskproject/blob/main/screenshots/screenshot-8.png)
 ![alt text](https://github.com/programejt/deskproject/blob/main/screenshots/screenshot-9.png)
+![alt text](https://github.com/programejt/deskproject/blob/main/screenshots/screenshot-10.png)
