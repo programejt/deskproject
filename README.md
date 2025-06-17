@@ -1,5 +1,5 @@
 # deskproject
-Strona dla pasjonatów (ale nie tylko) sprzętu komputerowego, dzięki której w prosty i przyjemny sposób można zaprezentować innym swoje komputery, peryferia czy całe stanowiska gamingowe, a także oglądać komputery innych użytkowników.
+Najlepsza strona dla pasjonatów (ale nie tylko) sprzętu (komputerowego, konsol, audio itp.), dzięki której w prosty i przyjemny sposób możesz zaprezentować innym swoje komputery, laptopy, konsole, kina domowe oraz zestawy audio wraz z akcesoriami, a także oglądać sprzęt innych użytkowników.
 
 Najbardziej dopracowany i najbardziej zaawansowany projekt stworzony przeze mnie, który cały czas jest rozwijany, stopniowo dodawane są nowe funkcjonalności oraz udoskonalane te już istniejące, z dużą dbałością o szczegóły.
 
@@ -19,3 +19,4 @@ Poniżej znajdują się zrzuty ekranu niektórych zasobów projektu:
 ![alt text](https://github.com/programejt/deskproject/blob/main/screenshots/screenshot-8.png)
 ![alt text](https://github.com/programejt/deskproject/blob/main/screenshots/screenshot-9.png)
 ![alt text](https://github.com/programejt/deskproject/blob/main/screenshots/screenshot-10.png)
+![alt text](https://github.com/programejt/deskproject/blob/main/screenshots/screenshot-11.png)
